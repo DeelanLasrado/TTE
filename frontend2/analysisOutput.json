@@ -1,0 +1,118 @@
+{
+  "Last Week": {
+    "totalMessages": 57,
+    "overallSentimentDistribution": {
+      "positive": 27,
+      "negative": 4,
+      "neutral": 9,
+      "mixed": 17
+    },
+    "averageSentiment": 0.36,
+    "categories": {
+      "Category-wise Analysis": {
+        "messages": 0,
+        "sentimentDistribution": {},
+        "summary": ""
+      },
+      "Work-Life Balance and Support Services Awareness": {
+        "messages": 33,
+        "sentimentDistribution": {
+          "positive": 19,
+          "negative": 4,
+          "neutral": 4,
+          "mixed": 6
+        },
+        "summary": "The workplace messages reveal a complex landscape of sentiments and themes. Key patterns include:"
+      },
+      "Safety Culture and Work Pressure": {
+        "messages": 15,
+        "sentimentDistribution": {
+          "positive": 5,
+          "negative": 0,
+          "neutral": 4,
+          "mixed": 6
+        },
+        "summary": "The workplace messages reflect a predominantly positive sentiment towards work pressure, hierarchy, and management styles, emphasizing the importance of focus, productivity, and results. Key themes include:"
+      },
+      "Technology Integration": {
+        "messages": 5,
+        "sentimentDistribution": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 2
+        },
+        "summary": "The workplace messages reflect a mixed sentiment towards innovation and career development within the company. Key themes include:"
+      },
+      "Assess Work Environment and Demographics": {
+        "messages": 4,
+        "sentimentDistribution": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 3
+        },
+        "summary": "The workplace messages reflect a mixed sentiment regarding inclusivity and performance. Key themes include a recognition of the need for a more inclusive environment, with several messages highlighting areas for improvement in valuing contributions from all employees. However, there is also a strong emphasis on prioritizing efficiency and results, suggesting a tension between inclusivity and performance goals. Additionally, there is a positive outlook on growth opportunities within the company, indicating optimism about career development as long as deadlines and results are met. Overall, the sentiment is a blend of concern for inclusivity alongside a focus on performance and results."
+      }
+    },
+    "overallSummary": "**Overall Summary of Workplace Feedback**\n\nThe analysis of workplace feedback reveals a predominantly positive sentiment, with 27 positive, 4 negative, 9 neutral, and 17 mixed sentiments across various categories. Key insights and trends include:\n\n1. **Recognition and Rewards**: Employees express significant concerns regarding the recognition system, feeling it often overlooks contributions from many individuals. While some appreciate its motivational aspect, there is a strong call for a more inclusive and structured approach to ensure all efforts are acknowledged.\n\n2. **Leadership and Decision-Making**: A top-down leadership style is prevalent, with many employees feeling that it leads to micromanagement and a lack of team input. While some view this approach as efficient, others highlight the need for more collaboration and shared decision-making.\n\n3. **Work-Life Balance**: Mixed sentiments are evident regarding work-life balance. While some employees appreciate the flexibility and support for personal well-being, others express concerns about the pressure to meet deadlines, suggesting that a more balanced approach"
+  },
+  "Last Month": {
+    "totalMessages": 57,
+    "overallSentimentDistribution": {
+      "positive": 27,
+      "negative": 4,
+      "neutral": 9,
+      "mixed": 17
+    },
+    "averageSentiment": 0.36,
+    "categories": {
+      "Category-wise Analysis": {
+        "messages": 0,
+        "sentimentDistribution": {},
+        "summary": ""
+      },
+      "Work-Life Balance and Support Services Awareness": {
+        "messages": 33,
+        "sentimentDistribution": {
+          "positive": 19,
+          "negative": 4,
+          "neutral": 4,
+          "mixed": 6
+        },
+        "summary": "The workplace messages reflect a mix of sentiments and highlight several key themes:"
+      },
+      "Safety Culture and Work Pressure": {
+        "messages": 15,
+        "sentimentDistribution": {
+          "positive": 5,
+          "negative": 0,
+          "neutral": 4,
+          "mixed": 6
+        },
+        "summary": "The workplace messages reflect a predominantly positive sentiment towards work pressure and management styles, emphasizing the importance of focus, productivity, and meeting targets. Key themes include a strong belief in hierarchical structures for effective decision-making and conflict resolution, with several messages supporting the leadership approach of David Thompson. While many express that work pressure is a natural and necessary part of their roles, there are mixed sentiments regarding workplace culture, which is described as traditional and results-driven, sometimes at the expense of team well-being."
+      },
+      "Technology Integration": {
+        "messages": 5,
+        "sentimentDistribution": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 2
+        },
+        "summary": "The workplace messages reflect a mixed sentiment regarding innovation and career development within the company. Key themes include:"
+      },
+      "Assess Work Environment and Demographics": {
+        "messages": 4,
+        "sentimentDistribution": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 3
+        },
+        "summary": "The workplace messages reflect a mixed sentiment regarding inclusivity and performance within the organization. Key themes include a recognition of the need for improvement in inclusivity, with several individuals acknowledging that while the environment is generally inclusive, there are still areas to enhance. There is also a strong emphasis on the importance of performance and efficiency, suggesting a tension between accommodating individual preferences and achieving organizational goals. Overall, while there is optimism about growth opportunities and career development, the messages indicate a desire for a balanced approach that values both results and inclusivity."
+      }
+    },
+    "overallSummary": "### Overall Summary of Workplace Feedback\n\nThe analysis of workplace feedback reveals a predominantly positive sentiment, with 27 positive, 4 negative, 9 neutral, and 17 mixed sentiments across various categories. Key trends and insights include:\n\n1. **Recognition and Rewards**: Employees express a strong desire for improvement in the recognition and rewards system, feeling that contributions from all team members should be acknowledged more inclusively. While some appreciate the system's motivational aspects, there are concerns about fairness and consistency.\n\n2. **Leadership and Decision-Making**: The leadership style is viewed as effective by some, emphasizing efficiency and results. However, there are negative sentiments regarding micromanagement and a lack of collaboration, indicating a need for a more inclusive decision-making process.\n\n3. **Work-Life Balance**: Mixed feelings are prevalent regarding work-life balance, with some employees feeling overwhelmed by tight deadlines while others appreciate the flexibility and support for maintaining a healthy balance. There is a call for a more balanced approach that considers"
+  }
+}

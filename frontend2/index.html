@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workplace Analysis Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Workplace Analysis Dashboard</h1>
+        <div class="controls">
+            <div class="select-wrapper">
+                <select id="period-select">
+                    <option value="" disabled selected>Select period</option>
+                </select>
+            </div>
+            <div class="select-wrapper">
+                <select id="category-select">
+                    <option value="" disabled selected>Select category</option>
+                </select>
+            </div>
+        </div>
+        <div class="cards-container">
+            <div class="card">
+                <div class="card-header">
+                    <h2 class="card-title">Total Messages</h2>
+                </div>
+                <div class="card-content">
+                    <p id="total-messages" class="large-number"></p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <h2 class="card-title">Average Sentiment</h2>
+                </div>
+                <div class="card-content">
+                    <p id="average-sentiment" class="large-number"></p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Sentiment Distribution</h2>
+            </div>
+            <div class="card-content">
+                <div id="sentiment-distribution" class="sentiment-distribution"></div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">
+                <h2 id="summary-title" class="card-title">Overall Summary</h2>
+            </div>
+            <div class="card-content">
+                <p id="summary-content"></p>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
